@@ -1,0 +1,121 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<title>interference - bryan stump's profile</title>
+<link href="/ifx.css" rel="stylesheet" type="text/css" />
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<link rel="image_src" href="http://www.playinterference.com/images/preview_img.jpg" />
+<meta name="title" content="Interference - a breakdown in communication" />
+<meta name="description" content="Ever played Chinese Whispers (UK) or Broken Telephone (US)? This is the same thing, but with drawing involved. An example? Ava starts a game by describing something, Bob is shown Ava's description and has to draw it, Carlos sees Bob's drawing and describes it, Dave reads Carlos' description and draws it, Emily describes Dave's picture." />
+</head>
+
+<body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&appId=100151220038110&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script><script language="javascript">
+function showLoginButtons(){
+	document.getElementById('login_buttons').style.display='block';
+}
+</script>
+<div id="header_wrapper">
+<div id="header">
+	<div id="header_text_left"><a href="/"><img src="/images/logo_v3.png" width="211" height="44" border="0" /></a></div>
+  <div id="header_text_center"><a href="/play" class="black">&nbsp;&nbsp;&nbsp;Play</a>&nbsp;|&nbsp;<a href="/view" class="black">Gallery</a>&nbsp;|&nbsp;<a href="/players/29875" class="black">My profile</a> <a href="/players/29875/notifications/" class="red_link">[1284]</a>&nbsp;|&nbsp;<a href="/community/week/" class="black">Community</a>&nbsp;|&nbsp;<a href="/about" class="black">Help</a></div>
+<div id="header_text_right" align="right">
+  <table border="0" cellpadding="0" cellspacing="0">
+  <tr><td align="right" valign="middle">
+  <img src="/images/msaccount_16px.png" alt="msaccount" width="16" height="16" align="absmiddle" /> <a href="/players/29875" class="black_110pc">bryan stump</a>&nbsp;[<a href="/?logout" class="black_110pc">Sign out</a>]<br />
+Level 15: 
+78 points to level up
+     </td>
+    </tr>
+    </table>
+  </div>
+</div>
+</div>
+
+<div id="wrapper">
+
+  
+  <h1 class="no_bottom_margin">bryan stump</h1>
+  <p class="player_tagline">  Level 15 (684 points)
+  </p>
+  <p class="sub_nav"><a href="/players/29875/">Summary</a> | <a href="/players/29875/drawings/">Drawings</a> | <a href="/players/29875/games/">Games</a> | <a href="/players/29875/favourites/">Favourite games</a> | <a href="/players/29875/favouriteplayers/">Favourite players</a> | <a href="/players/29875/notifications/">Notifications</a> <b><a href="/players/29875/notifications/" class="red_link">[1284]</a></b> | <a href="/players/29875/settings/">Settings</a>  </p>
+      <h2>Statistics</h2>
+  
+  
+  <p>Player since: 29 December, 2014<br />
+Last seen: 26 April, 2015 at 14:06</p>
+  <p>Total drawings: 52<br />
+    Total descriptions: 98<br />
+  Total passes: 69</p>
+  <p>Items liked: 5699<br />
+  Comments posted: 212</p>
+  <p>Favourited by 3 players</p>
+    
+    <h2>Most popular drawings</h2>
+    <div class="action_175px_div">
+    <a href="/view/45644"><img src="http://www.playinterference.com/game_images/games/456/45644/175/45644-29875-497585.jpg" border="0" class="thin_black_border" /></a>
+    <p>a rabbit that  can see in the dark</p>
+  </div>
+    <div class="action_175px_div">
+    <a href="/view/45625"><img src="http://www.playinterference.com/game_images/games/456/45625/175/45625-29875-425621.jpg" border="0" class="thin_black_border" /></a>
+    <p>Jordan Belfort giving out fun coupons</p>
+  </div>
+    <div class="action_175px_div">
+    <a href="/view/45875"><img src="http://www.playinterference.com/game_images/games/458/45875/175/45875-29875-610640.jpg" border="0" class="thin_black_border" /></a>
+    <p>a couple gives treats to a mad dog</p>
+  </div>
+    <div class="action_175px_div">
+    <a href="/view/45490"><img src="http://www.playinterference.com/game_images/games/454/45490/175/45490-29875-99414.jpg" border="0" class="thin_black_border" /></a>
+    <p>Fish = 0  happy face = hamburger with lettuce and seeded bun</p>
+  </div>
+    
+  <h2 class="clear_both">Most popular descriptions</h2>
+    <div class="action_175px_div">
+    <a href="/view/46281"><img src="http://www.playinterference.com/game_images/games/462/46281/175/46281-29089-612533.jpg" border="0" class="thin_black_border" /></a>
+    <p>dr. who, harry potter, and hunger games on the moon</p>
+  </div>
+    <div class="action_175px_div">
+    <a href="/view/45605"><img src="http://www.playinterference.com/game_images/games/456/45605/175/45605-29889-674509.jpg" border="0" class="thin_black_border" /></a>
+    <p>on break from work, the blue pac-man ghost eats pizza alone</p>
+  </div>
+    <div class="action_175px_div">
+    <a href="/view/45955"><img src="http://www.playinterference.com/game_images/games/459/45955/175/45955-29652-488126.jpg" border="0" class="thin_black_border" /></a>
+    <p>dismayed nun does not help an injured adventurous lad</p>
+  </div>
+    <div class="action_175px_div">
+    <a href="/view/46014"><img src="http://www.playinterference.com/game_images/games/460/46014/175/46014-30084-689725.jpg" border="0" class="thin_black_border" /></a>
+    <p>she is in love. thats all that matters</p>
+  </div>
+    <h2 class="clear_both" id="awards"><br />
+  Awards</h2>
+  <table cellpadding="5">
+    <tr><td align="center" valign="top"><img src="/images/awards/award_likes_10.png" />
+    </td>
+  <td valign="top"><strong>10 Likes</strong><br />
+    <p>You received 10 likes for one drawing or description</p></td></tr>
+  </table>
+  <p class="clear">&nbsp;</p>
+  </div>
+<div id="footer_wrapper">
+<div id="footer">
+<table width="100%">
+<tr>
+<td width="50%" valign="middle">Interference &copy; Centrifuge, 2010-2013 | <a href="/about/legal.php">Legal stuff / Privacy Policy</a></td>
+<td width="50%" align="right" valign="middle">
+<ul class="footer_share_buttons">
+<li><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.playinterference.com" data-text="Join me on #Interference - the game where you draw, describe &amp; laugh." data-via="playifx">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></li>
+<li style="margin-right:20px"><fb:like href="https://www.facebook.com/pages/Interference/460126800664382" send="false" layout="button_count" width="450" show_faces="true" font="arial"></fb:like></li>
+<li>Tell your friends:&nbsp;&nbsp;&nbsp;</li>
+</ul>
+</td>
+</table>
+</div>
+</div></body>
+</html>

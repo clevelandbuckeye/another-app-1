@@ -1,0 +1,24 @@
+﻿<Window x:Class="WpfApplication1_niterfr.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication1_niterfr"
+        mc:Ignorable="d" x:Name="window1" DataContext="{Binding ElementName=window1}"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <ListView x:Name="ListVieew1Test" ItemsSource="{Binding imageAndTitleList}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel>
+                        <Image Height="175" Width="175" Source="{Binding ImagPath}"></Image>
+                        <TextBlock Text="{Binding Title}"></TextBlock>
+                        <Button Content="{Binding GameUrl}"  Click="Button_Click"></Button>
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+
+        </ListView>
+        <!--<Image x:Name="Image1Test" Height="175" Width="175"></Image>-->
+    </Grid>
+</Window>

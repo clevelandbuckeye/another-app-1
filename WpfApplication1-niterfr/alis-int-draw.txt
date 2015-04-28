@@ -1,0 +1,222 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<title>interference - adippe54's profile</title>
+<link href="/ifx.css" rel="stylesheet" type="text/css" />
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<link rel="image_src" href="http://www.playinterference.com/images/preview_img.jpg" />
+<meta name="title" content="Interference - a breakdown in communication" />
+<meta name="description" content="Ever played Chinese Whispers (UK) or Broken Telephone (US)? This is the same thing, but with drawing involved. An example? Ava starts a game by describing something, Bob is shown Ava's description and has to draw it, Carlos sees Bob's drawing and describes it, Dave reads Carlos' description and draws it, Emily describes Dave's picture." />
+</head>
+
+<body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&appId=100151220038110&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script><script language="javascript">
+function showLoginButtons(){
+	document.getElementById('login_buttons').style.display='block';
+}
+</script>
+<div id="header_wrapper">
+<div id="header">
+	<div id="header_text_left"><a href="/"><img src="/images/logo_v3.png" width="211" height="44" border="0" /></a></div>
+  <div id="header_text_center"><a href="/play" class="black">&nbsp;&nbsp;&nbsp;Play</a>&nbsp;|&nbsp;<a href="/view" class="black">Gallery</a>&nbsp;|&nbsp;<a href="/players/29875" class="black">My profile</a> <a href="/players/29875/notifications/" class="red_link">[1284]</a>&nbsp;|&nbsp;<a href="/community/week/" class="black">Community</a>&nbsp;|&nbsp;<a href="/about" class="black">Help</a></div>
+<div id="header_text_right" align="right">
+  <table border="0" cellpadding="0" cellspacing="0">
+  <tr><td align="right" valign="middle">
+  <img src="/images/msaccount_16px.png" alt="msaccount" width="16" height="16" align="absmiddle" /> <a href="/players/29875" class="black_110pc">bryan stump</a>&nbsp;[<a href="/?logout" class="black_110pc">Sign out</a>]<br />
+Level 15: 
+78 points to level up
+     </td>
+    </tr>
+    </table>
+  </div>
+</div>
+</div>
+
+<div id="wrapper">
+
+  
+  <h1 class="no_bottom_margin">adippe54</h1>
+  <p class="player_tagline">  Level 8 (278 points)
+  </p>
+  <p class="sub_nav"><a href="/players/30065/">Summary</a> | <a href="/players/30065/drawings/">Drawings</a> | <a href="/players/30065/games/">Games</a> | <a href="/players/30065/favourites/">Favourite games</a> | <a href="/players/30065/favouriteplayers/">Favourite players</a>  </p>
+    <h2>Drawings</h2>
+  <table align="center">
+        <tr>
+            <td valign="top" align="center">
+        <div class="action_175px_div">
+          <a href="/view/46063/"><img src="http://www.playinterference.com/game_images/games/460/46063/175/46063-30065-317683.jpg" border="0" class="thin_black_border" /></a><br />
+      A guy with a flag  </div>  </td>
+          <td valign="top" align="center">
+        <div class="action_175px_div">
+          <a href="/view/46332/"><img src="http://www.playinterference.com/game_images/games/463/46332/175/46332-30065-259341.jpg" border="0" class="thin_black_border" /></a><br />
+      Two kids riding a brown wagon with black clouds for wheels.  </div>  </td>
+          <td valign="top" align="center">
+        <div class="action_175px_div">
+          <a href="/view/46339/"><img src="http://www.playinterference.com/game_images/games/463/46339/175/46339-30065-754980.jpg" border="0" class="thin_black_border" /></a><br />
+      girl holding keyboard  </div>  </td>
+          <td valign="top" align="center">
+        <div class="action_175px_div">
+          <a href="/view/46307/"><img src="http://www.playinterference.com/game_images/games/463/46307/175/46307-30065-486886.jpg" border="0" class="thin_black_border" /></a><br />
+      Red car drives on road next to beach  </div>  </td>
+        </tr>
+        <tr>
+            <td valign="top" align="center">
+        <div class="action_175px_div">
+          <a href="/view/46306/"><img src="http://www.playinterference.com/game_images/games/463/46306/175/46306-30065-42854.jpg" border="0" class="thin_black_border" /></a><br />
+      I\'m an elephant, if I can surf you can surf  </div>  </td>
+          <td valign="top" align="center">
+        <div class="action_175px_div">
+          <a href="/view/46305/"><img src="http://www.playinterference.com/game_images/games/463/46305/175/46305-30065-55396.jpg" border="0" class="thin_black_border" /></a><br />
+      Horse taking a bath in lovely stream on spring day  </div>  </td>
+          <td valign="top" align="center">
+        <div class="action_175px_div">
+          <a href="/view/46287/"><img src="http://www.playinterference.com/game_images/games/462/46287/175/46287-30065-49618.jpg" border="0" class="thin_black_border" /></a><br />
+      house is about to be beaten by person throwing stones  </div>  </td>
+          <td valign="top" align="center">
+        <div class="action_175px_div">
+          <a href="/view/46261/"><img src="http://www.playinterference.com/game_images/games/462/46261/175/46261-30065-451749.jpg" border="0" class="thin_black_border" /></a><br />
+      Angel of the night  </div>  </td>
+        </tr>
+        <tr>
+            <td valign="top" align="center">
+        <div class="action_175px_div">
+          <a href="/view/46279/"><img src="http://www.playinterference.com/game_images/games/462/46279/175/46279-30065-2628.jpg" border="0" class="thin_black_border" /></a><br />
+      Boy throws an electrically charged frizbee at sky creature  </div>  </td>
+          <td valign="top" align="center">
+        <div class="action_175px_div">
+          <a href="/view/46224/"><img src="http://www.playinterference.com/game_images/games/462/46224/175/46224-30065-825023.jpg" border="0" class="thin_black_border" /></a><br />
+      calling 911 beacuse the rocket is about to take off.  </div>  </td>
+          <td valign="top" align="center">
+        <div class="action_175px_div">
+          <a href="/view/46203/"><img src="http://www.playinterference.com/game_images/games/462/46203/175/46203-30065-809670.jpg" border="0" class="thin_black_border" /></a><br />
+      playing on your computer.  </div>  </td>
+          <td valign="top" align="center">
+        <div class="action_175px_div">
+          <a href="/view/46104/"><img src="http://www.playinterference.com/game_images/games/461/46104/175/46104-30065-913102.jpg" border="0" class="thin_black_border" /></a><br />
+      a snack Birthday  </div>  </td>
+        </tr>
+        <tr>
+            <td valign="top" align="center">
+        <div class="action_175px_div">
+          <a href="/view/46100/"><img src="http://www.playinterference.com/game_images/games/461/46100/175/46100-30065-961212.jpg" border="0" class="thin_black_border" /></a><br />
+      Crimson Crab is #23 in line at Crab House. Her number is up!  </div>  </td>
+          <td valign="top" align="center">
+        <div class="action_175px_div">
+          <a href="/view/45996/"><img src="http://www.playinterference.com/game_images/games/459/45996/175/45996-30065-997850.jpg" border="0" class="thin_black_border" /></a><br />
+      mouse inside the house  </div>  </td>
+          <td valign="top" align="center">
+        <div class="action_175px_div">
+          <a href="/view/46076/"><img src="http://www.playinterference.com/game_images/games/460/46076/175/46076-30065-553244.jpg" border="0" class="thin_black_border" /></a><br />
+      hairy leg with sunglasses on kicking a basketball  </div>  </td>
+          <td valign="top" align="center">
+        <div class="action_175px_div">
+          <a href="/view/46074/"><img src="http://www.playinterference.com/game_images/games/460/46074/175/46074-30065-546496.jpg" border="0" class="thin_black_border" /></a><br />
+      Cool guy strutting down the road whilst singing  </div>  </td>
+        </tr>
+        <tr>
+            <td valign="top" align="center">
+        <div class="action_175px_div">
+          <a href="/view/46071/"><img src="http://www.playinterference.com/game_images/games/460/46071/175/46071-30065-885851.jpg" border="0" class="thin_black_border" /></a><br />
+      A dancing elf greeting you with \"namaste\"  </div>  </td>
+          <td valign="top" align="center">
+        <div class="action_175px_div">
+          <a href="/view/46065/"><img src="http://www.playinterference.com/game_images/games/460/46065/175/46065-30065-959329.jpg" border="0" class="thin_black_border" /></a><br />
+      phone box next to jail cell containing blonde chick  </div>  </td>
+          <td valign="top" align="center">
+        <div class="action_175px_div">
+          <a href="/view/46059/"><img src="http://www.playinterference.com/game_images/games/460/46059/175/46059-30065-129852.jpg" border="0" class="thin_black_border" /></a><br />
+      a ghost looking at self portraits saying \"ohhh emmm geeee\"  </div>  </td>
+          <td valign="top" align="center">
+        <div class="action_175px_div">
+          <a href="/view/46033/"><img src="http://www.playinterference.com/game_images/games/460/46033/175/46033-30065-214805.jpg" border="0" class="thin_black_border" /></a><br />
+      Bambi calling his mom  </div>  </td>
+        </tr>
+        <tr>
+            <td valign="top" align="center">
+        <div class="action_175px_div">
+          <a href="/view/45995/"><img src="http://www.playinterference.com/game_images/games/459/45995/175/45995-30065-250559.jpg" border="0" class="thin_black_border" /></a><br />
+      a man walking his pet shark  </div>  </td>
+          <td valign="top" align="center">
+        <div class="action_175px_div">
+          <a href="/view/45937/"><img src="http://www.playinterference.com/game_images/games/459/45937/175/45937-30065-222644.jpg" border="0" class="thin_black_border" /></a><br />
+      Identity crisis. Can you tell me who I am?  </div>  </td>
+          <td valign="top" align="center">
+        <div class="action_175px_div">
+          <a href="/view/46041/"><img src="http://www.playinterference.com/game_images/games/460/46041/175/46041-30065-712682.jpg" border="0" class="thin_black_border" /></a><br />
+      person eating a leaky doughnut from Dunkin Donuts  </div>  </td>
+          <td valign="top" align="center">
+        <div class="action_175px_div">
+          <a href="/view/46032/"><img src="http://www.playinterference.com/game_images/games/460/46032/175/46032-30065-523395.jpg" border="0" class="thin_black_border" /></a><br />
+      cool Queen Elizabeth stamp  </div>  </td>
+        </tr>
+        <tr>
+            <td valign="top" align="center">
+        <div class="action_175px_div">
+          <a href="/view/46012/"><img src="http://www.playinterference.com/game_images/games/460/46012/175/46012-30065-176781.jpg" border="0" class="thin_black_border" /></a><br />
+      A guy getting yelled at buy a guy he doesn't know  </div>  </td>
+          <td valign="top" align="center">
+        <div class="action_175px_div">
+          <a href="/view/46023/"><img src="http://www.playinterference.com/game_images/games/460/46023/175/46023-30065-735321.jpg" border="0" class="thin_black_border" /></a><br />
+      An angel is throwing garbage into the ocean from a cliff  </div>  </td>
+          <td valign="top" align="center">
+        <div class="action_175px_div">
+          <a href="/view/46017/"><img src="http://www.playinterference.com/game_images/games/460/46017/175/46017-30065-75199.jpg" border="0" class="thin_black_border" /></a><br />
+      angry teddy bear needs a serious hug and some counseling  </div>  </td>
+          <td valign="top" align="center">
+        <div class="action_175px_div">
+          <a href="/view/46022/"><img src="http://www.playinterference.com/game_images/games/460/46022/175/46022-30065-652250.jpg" border="0" class="thin_black_border" /></a><br />
+      blonde chick ponders paying medical expenses  </div>  </td>
+        </tr>
+        <tr>
+            <td valign="top" align="center">
+        <div class="action_175px_div">
+          <a href="/view/46019/"><img src="http://www.playinterference.com/game_images/games/460/46019/175/46019-30065-46690.jpg" border="0" class="thin_black_border" /></a><br />
+      Polka dot rat sleeps on the mat!   </div>  </td>
+          <td valign="top" align="center">
+        <div class="action_175px_div">
+          <a href="/view/45988/"><img src="http://www.playinterference.com/game_images/games/459/45988/175/45988-30065-804017.jpg" border="0" class="thin_black_border" /></a><br />
+      spongebob and patrick  </div>  </td>
+          <td valign="top" align="center">
+        <div class="action_175px_div">
+          <a href="/view/45955/"><img src="http://www.playinterference.com/game_images/games/459/45955/175/45955-30065-845828.jpg" border="0" class="thin_black_border" /></a><br />
+      dismayed nun does not help an injured adventurous lad  </div>  </td>
+          <td valign="top" align="center">
+        <div class="action_175px_div">
+          <a href="/view/45909/"><img src="http://www.playinterference.com/game_images/games/459/45909/175/45909-30065-196930.jpg" border="0" class="thin_black_border" /></a><br />
+      bowl of ketchup plus bowl of dust equals bowl of sand?  </div>  </td>
+        </tr>
+        <tr>
+            <td valign="top" align="center">
+        <div class="action_175px_div">
+          <a href="/view/45892/"><img src="http://www.playinterference.com/game_images/games/458/45892/175/45892-30065-807385.jpg" border="0" class="thin_black_border" /></a><br />
+      a knight fighting an xbox  </div>  </td>
+          <td valign="top" align="center">
+        <div class="action_175px_div">
+          <a href="/view/45831/"><img src="http://www.playinterference.com/game_images/games/458/45831/175/45831-30065-531484.jpg" border="0" class="thin_black_border" /></a><br />
+      Moses dividing a mountain  looking at a huge star  </div>  </td>
+      </table>
+    <p class="clear">&nbsp;</p>
+  </div>
+<div id="footer_wrapper">
+<div id="footer">
+<table width="100%">
+<tr>
+<td width="50%" valign="middle">Interference &copy; Centrifuge, 2010-2013 | <a href="/about/legal.php">Legal stuff / Privacy Policy</a></td>
+<td width="50%" align="right" valign="middle">
+<ul class="footer_share_buttons">
+<li><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.playinterference.com" data-text="Join me on #Interference - the game where you draw, describe &amp; laugh." data-via="playifx">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></li>
+<li style="margin-right:20px"><fb:like href="https://www.facebook.com/pages/Interference/460126800664382" send="false" layout="button_count" width="450" show_faces="true" font="arial"></fb:like></li>
+<li>Tell your friends:&nbsp;&nbsp;&nbsp;</li>
+</ul>
+</td>
+</table>
+</div>
+</div></body>
+</html>
